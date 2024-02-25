@@ -1,0 +1,422 @@
+Architectural fragment
+S 385
+COLLECTION
+Sculptures
+OBJECT TYPE
+Architectural fragment
+MATERIAL
+Stone
+SCHOOLS/CULTURE/PERIOD
+--
+TECHNIQUE
+--
+DATE
+--
+LOCATION
+Thane,
+| 
+Ganesh, Vamana and Vishnu
+S 7
+COLLECTION
+Sculptures
+OBJECT TYPE
+Architectural fragment Sculpture
+MATERIAL
+Stone
+SCHOOLS/CULTURE/PERIOD
+--
+TECHNIQUE
+--
+DATE
+12th century CE
+LOCATION
+Rajasthan
+|
+Elephant
+TC 315
+DESCRIPTION
+A decorative brick in the shape of an elephant.
+A large number of elephant brackets are included in the finds from Mirpurkhas. In this style, the upraised trunk holds some object.
+COLLECTION
+Sculptures
+OBJECT TYPE
+Architectural fragment
+MATERIAL
+Plaster Cast
+SCHOOLS/CULTURE/PERIOD
+--
+TECHNIQUE
+--
+DATE
+C. 5th Century CE
+LOCATION
+Mirpur Khas, Sindh
+DIMENSION
+13x17.5x7.5 cms
+|
+Carved Brick
+TC 308
+DESCRIPTION
+Part of a heavily decorated garland. The ornament consists of a flamboyant triangle, dentils, beadings and half-rosette joined together with beaded bands.
+COLLECTION
+Sculptures
+OBJECT TYPE
+Architectural fragment
+MATERIAL
+Terracotta
+SCHOOLS/CULTURE/PERIOD
+--
+TECHNIQUE
+--
+DATE
+C. 5th Century CE
+LOCATION
+Mirpur Khas, Sindh
+DIMENSION
+40x5.5 x24 cms
+|
+A peacock and a peahen
+TC 276
+DESCRIPTION
+Brick with a peacock and peahen in the centre.
+Against the background of acanthus leaves the birds are represented in the act of mating. They are almost in the same attitude as in one of the decorative ivory plaques from Begram.
+COLLECTION
+Sculptures
+OBJECT TYPE
+Architectural fragment
+MATERIAL
+Terracotta
+SCHOOLS/CULTURE/PERIOD
+--
+TECHNIQUE
+--
+DATE
+C. 5th Century CE
+LOCATION
+Mirpur Khas, Sindh
+DIMENSION
+--
+|
+Buddha
+TC 558
+DESCRIPTION
+Buddha seated in European fashion on a throne. Elaborate throne flanked with the figures of Makaras and lions; a pilaster on either side. The haloed Buddha is seated in Dharmachakra Parivartan Mudra. According to Moti Chandra, this figure might have drawn inspiration from Gandharan Buddha or the seated royal Saka figures from Mathura.
+COLLECTION
+Sculptures
+OBJECT TYPE
+Architectural fragment Figurine Sculpture
+MATERIAL
+Terracotta
+SCHOOLS/CULTURE/PERIOD
+--
+TECHNIQUE
+--
+DATE
+C. 6th-11th Century CE
+LOCATION
+Thul Mir Rukan, Sindh
+DIMENSION
+16x16x10 cms
+|
+Elephant
+TC 345
+DESCRIPTION
+A carved brick depicting an elephant.
+COLLECTION
+Sculptures
+OBJECT TYPE
+Architectural fragment
+MATERIAL
+Terracotta
+SCHOOLS/CULTURE/PERIOD
+Gupta Period
+TECHNIQUE
+--
+DATE
+C. 5th Century CE
+LOCATION
+Mirpur Khas, Sindh
+DIMENSION
+15x15.6x9 cm
+|
+Mithuna
+TC 313
+DESCRIPTION
+A carved brick depicting an amorous couple (Mithuna)
+The pair of male and female in Indian art has a much wider connotation than lust as sexual or procreative partners. They are also partners in religious duties such as the performance of important ceremonies and rituals to acquire religious merit. In fact, no Grihya and other sacrifices could be performed by a single man, as it was considered, incomplete. Yugala or Mithuna symbolised completeness or totality of life and therefore is considered auspicious. The presence of Mithuna sculptures on Indian temples reflects the partnership of man and woman both in the act of dharma and karma. This concept is emphatically expressed even in the Rig veda wherein it is stated: "they accompanied by their wives, worshipped the fire who is worthy of worship." The Dharmashastras also enjoin that from the time of marriage the husband and wife work together for the ultimate fulfilment of life.
+Rigved, 1.72. 5. 2. Gobhila Grihyasutra, 1, 4, 16-19. 3. Kane, 1941. P. 553. 1977, p. 477, fig. 256. 258 and 805.
+COLLECTION
+Sculptures
+OBJECT TYPE
+Architectural fragment
+MATERIAL
+Plaster Cast
+SCHOOLS/CULTURE/PERIOD
+Gupta Period
+TECHNIQUE
+--
+DATE
+C. 5th Century CE
+LOCATION
+Mirpur Khas, Sindh
+DIMENSION
+16x20x2.4 cms
+|
+Horned masks
+TC 309
+DESCRIPTION
+A carved brick depicting horned masks.
+The frieze represents a series of oblong horned and bearded human heads placed against the background of acanthus leaves; on either side of these masks are depicted curled leaves in pairs.
+COLLECTION
+Sculptures
+OBJECT TYPE
+Architectural fragment
+MATERIAL
+Terracotta
+SCHOOLS/CULTURE/PERIOD
+Gupta Period
+TECHNIQUE
+--
+DATE
+C. 5th Century CE
+LOCATION
+Mirpur Khas, Sindh
+DIMENSION
+9.5x38.5x25 cm
+|
+Carved Brick
+TC 307
+DESCRIPTION
+--
+COLLECTION
+Sculptures
+OBJECT TYPE
+Architectural fragment
+MATERIAL
+Terracotta
+SCHOOLS/CULTURE/PERIOD
+--
+TECHNIQUE
+--
+DATE
+--
+LOCATION
+Jerruck (Jhirk), Sindh
+DIMENSION
+7x14x4.5 cms
+|
+Lion/Vyala
+TC 303
+DESCRIPTION
+A decorative brick depicting a Lion/Vyala
+The figure of the lion is highly stylised. It has open goggle eyes, a moustache, an open mouth showing bare fangs and schematically treated manes and underside fur. The closest parallel to the lion may be seen in a lion head represented in the decorative motifs in the Bhumara temple.
+COLLECTION
+Sculptures
+OBJECT TYPE
+Architectural fragment
+MATERIAL
+Terracotta
+SCHOOLS/CULTURE/PERIOD
+Gupta Period
+TECHNIQUE
+--
+DATE
+C. 5th Century CE
+LOCATION
+Mirpur Khas, Sindh
+DIMENSION
+16x12x8.5 cms
+|
+Vyala emitting pearls
+TC 297
+DESCRIPTION
+A decorative brick depicting a Vyala emitting pearls
+Part of a frieze decorated with a series of stylised lion-heads with bare fangs emitting four jewelled strands which join with similar strands emitted by the mask.
+COLLECTION
+Sculptures
+OBJECT TYPE
+Architectural fragment
+MATERIAL
+Terracotta
+SCHOOLS/CULTURE/PERIOD
+--
+TECHNIQUE
+--
+DATE
+--
+LOCATION
+Jerruck (Jhirk), Sindh
+DIMENSION
+--
+|
+Carved Brick
+TC 278
+DESCRIPTION
+Carved Brick shaped as rows of Rosettes.
+COLLECTION
+Sculptures
+OBJECT TYPE
+Architectural fragment
+MATERIAL
+Terracotta
+SCHOOLS/CULTURE/PERIOD
+Gupta Period
+TECHNIQUE
+--
+DATE
+C. 5th Century CE
+LOCATION
+Mirpur Khas, Sindh
+DIMENSION
+16.5x18x8.5 cms
+|
+Carved Brick
+TC 239
+DESCRIPTION
+--
+COLLECTION
+Sculptures
+OBJECT TYPE
+Architectural fragment
+MATERIAL
+Terracotta
+SCHOOLS/CULTURE/PERIOD
+--
+TECHNIQUE
+--
+DATE
+--
+LOCATION
+Sopara
+DIMENSION
+--
+|
+Carved Brick
+TC 273
+DESCRIPTION
+The design consists of a series of ringed acanthus leaf sheaves alternating with a small stylised plant. Its exact parallel is not available in the Gupta art of Madhyadesa, but the pattern appears in the Begram ivories with certain changes.
+COLLECTION
+Sculptures
+OBJECT TYPE
+Architectural fragment
+MATERIAL
+Terracotta
+SCHOOLS/CULTURE/PERIOD
+Gupta Period
+TECHNIQUE
+--
+DATE
+C. 5th Century CE
+LOCATION
+Mirpur Khas, Sindh
+DIMENSION
+38x26x6 cm
+|
+Buddha’s Birth
+TC 83
+DESCRIPTION
+The brick, within a single panel, depicts one of Buddha's twelve exemplary deeds, that is, his birth in the Lumbini forest. Queen Mayadevi, Shakyamuni's mother, can be observed standing while holding a branch with her right hand. To her right is a row of attendants receiving the infant, the future Buddha, emerging from her side. The attendants can be seen wearing a cap-like headdress and single-stranded necklaces, while Mayadevi herself can be seen wearing a crown, a necklace, armbands, and wristbands. The Altdanakatha elaborates on the tale behind this object. While travelling back to her parent's palace to give birth, in keeping with the custom, Mayadevi was struck by the beauty of the Lumbini forest. Standing amidst the trees, she held a branch, and at that moment began experiencing labour pains, with the future Buddha being born soon after. There have been many conjectures aiming to explain Mayadevi's pose.
+COLLECTION
+Sculptures
+OBJECT TYPE
+Architectural fragment
+MATERIAL
+Terracotta
+SCHOOLS/CULTURE/PERIOD
+--
+TECHNIQUE
+--
+DATE
+--
+LOCATION
+--
+DIMENSION
+--
+|
+Jambhala (Kubera)
+TC 80
+DESCRIPTION
+This roundel of Kubera, the God of wealth and also the guardian of the western (north) direction was placed on the west wall of the stupa, which was probably the front side of the monument. Pot-bellied Kubera is seated in the midst of acanthus leaves, a style peculiar to the Mirpur Khas artist. The curves of the leaves gracefully blend and harmonise with the folds of his garments. He wears a three-peaked tiara, necklace, big earrings, a kamarabandha and armlets and holds a singular emblem of the lotus in his hand. His hair falls in neatly organised tassels right below his shoulders. He is seated in the Ardhaparyankasana slightly leaning to his right aligning with the curve of the roundel. The image is important as one of the early representations of Kubera. Besides being auspicious. The roundel must have also served as a decorative piece on the outer wall of the stupa.
+COLLECTION
+Sculptures
+OBJECT TYPE
+Architectural fragment
+MATERIAL
+Terracotta
+SCHOOLS/CULTURE/PERIOD
+Gupta period
+TECHNIQUE
+--
+DATE
+C. 5th Century CE
+LOCATION
+Mirpur Khas, Sindh
+DIMENSION
+Dia- approximately 20 cm
+|
+Elephant
+TC 70
+DESCRIPTION
+Carved Brick in the shape of an elephant.
+A large number of elephant brackets are included in the finds from Mirpurkhas. The common type has short ears, a screwed neck and lowered down or recurved trunk. In the second type, the upraised trunk holds some object. In the third type, the temples are decorated with circles, a common feature of elephant decoration in the Kushana period.
+COLLECTION
+Sculptures
+OBJECT TYPE
+Architectural fragment
+MATERIAL
+Terracotta
+SCHOOLS/CULTURE/PERIOD
+Gupta period
+TECHNIQUE
+--
+DATE
+C. 5th Century CE
+LOCATION
+Mirpur Khas, Sindh
+DIMENSION
+7.5x11.5x5 cm
+|
+Carved Brick
+TC 67
+DESCRIPTION
+The use of decorative bricks was in fashion during the Gupta period, particularly around Punjab and north-western India. Many brick temples from Kot in Punjab to Mirpur Khas in Sindh, and from Bhitargaon to Sirpur testify to the ample use of bricks with decorative designs in contemporary architecture. These bricks vary in size, measuring between 6 to 18 inches in length. The variety of their patterns is infinite, suitable for the embellishment of different parts of the architecture. The extant site gives a fairly good idea of the original arrangement of the bricks on the stupa.
+COLLECTION
+Sculptures
+OBJECT TYPE
+Architectural fragment
+MATERIAL
+Terracotta
+SCHOOLS/CULTURE/PERIOD
+Gupta period
+TECHNIQUE
+--
+DATE
+C. 5th Century CE
+LOCATION
+Mirpur Khas, Sindh
+DIMENSION
+6.5x25.5x13 cm
+|
+Bowl
+22.1329
+DESCRIPTION
+Jade is a semi-precious stone used to produce exquisite and innumerable works of art. It is hard and glassy with a translucent surface and comes in various shades. The process of jade carving is time-consuming and requires a lot of patience.
+The Mughal jades were well known for their worksmanship. These jades received accolades from the Chinese Emperor Chien Lung (1736- 1795 CE). The emperor notes that the jades from Hindustan are as thin as paper and that only the jade carvers from Hindustan are capable of creating such exquisite pieces.
+Sir Ratan Tata Art Collection.
+COLLECTION
+Indian Decorative Art
+OBJECT TYPE
+Architectural fragment
+MATERIAL
+Jade
+SCHOOLS/CULTURE/PERIOD
+Mughal
+TECHNIQUE
+Lapidary
+DATE
+Late 17th century CE
+LOCATION
+India
+DIMENSION
+3.4 x Dia. 14.8 cms
+
